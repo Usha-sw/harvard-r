@@ -3,6 +3,8 @@ Final Project - HarvardX: PH125.9x Capstone Course for the Data Science Professi
 
 Movie Recommendation System: Algorithm to predict user ratings of movies
 
+Done by: Usha V on Edx Platform
+
 In this project we have developed a machine learning algorithm that predicts movie ratings based on the MovieLens dataset. 
 
 This repository contains:
