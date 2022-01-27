@@ -5,7 +5,7 @@ Movie Recommendation System: Algorithm to predict user ratings of movies
 
 Done by: Usha V on Edx Platform
 
-In this project we have developed a machine learning algorithm that predicts movie ratings based on the MovieLens dataset. 
+In this project I have developed a machine learning algorithm that predicts movie ratings based on the MovieLens dataset. 
 
 This repository contains:
 
