@@ -3,7 +3,7 @@ Final Project - HarvardX: PH125.9x Capstone Course for the Data Science Professi
 
 Movie Recommendation System: Algorithm to predict user ratings of movies
 
-Done by: Usha V on Edx Platform
+Done by: Usha V on Edx Platform for the following Program: Professional Certificate in Data Science
 
 In this project I have developed a machine learning algorithm that predicts movie ratings based on the MovieLens dataset. 
 
@@ -14,5 +14,3 @@ Report.Rmd -> Project report in .rmd format
 Report.pdf -> Project report in .pdf format
 
 RScript -> R-Script that generates the data analysis
-
-This project was created for the assignment of the EdX Capstone course for the following program: Professional Certificate in Data Science.
